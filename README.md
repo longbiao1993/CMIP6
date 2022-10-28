@@ -1,5 +1,5 @@
 <img
-  src='https://carbonplan-assets.s3.amazonaws.com/monogram/dark-small.png'
+  src='https://github.com/longbiao1993/CMIP6/blob/main/data/figures/group.log.jpg'
   height='48'
 />
 
