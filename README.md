@@ -17,7 +17,7 @@
 [actions]: https://github.com/carbonplan/carbonplan.org/actions/workflows/main.yml
 [mit license]: https://badgen.net/badge/license/MIT/blue
 
-The dataset is simulated by WRF4.3 by ERA5 (3 domains) and GCM 6 hourly(4 domains)) forcing in NSCC HPC 
+The dataset is simulated by WRF4.3 by ERA5 (3 domains) and GCM 6 hourly (4 domains) forcing in NSCC HPC 
 1. All output is daily netcdf files with equal area projection at three domains
    (12.5km: south east Asia; 2.5km: around Singapore; 500m: singapore)
 2. Files include names with wrfout_d01_year-mon-day_00:00:00 (first running)
