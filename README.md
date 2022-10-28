@@ -1,6 +1,6 @@
 <img
   src='https://github.com/longbiao1993/CMIP6/blob/main/data/figures/group.log.jpg'
-  height='48'
+  height='150'
 />
 
 # carbonplan / carbonplan.org
